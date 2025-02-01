@@ -24,19 +24,20 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="48">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/php.png"/>
-    <img src="https://img.icons8.com/color/48/000000/dart.png"/>
-    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-    <img src="https://img.icons8.com/color/48/000000/django.png"/>
-    <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/php.png"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png"/>
+<img src="https://img.icons8.com/color/48/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+
 </p>
 
 ---
