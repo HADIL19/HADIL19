@@ -1,4 +1,4 @@
-**<h1 align="center"> Hi 👋, I'm HADIL </h1>
+<h1 align="center"> Hi 👋, I'm HADIL </h1>
 <h3 align="center"> Passionate about Mobile Development and Artificial Intelligence </h3>
 
 <p align="center">
@@ -52,7 +52,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADIL19&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-**
 
 ---
 
