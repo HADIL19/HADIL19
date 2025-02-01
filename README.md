@@ -26,7 +26,7 @@
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
-   <img src="https://img.icons8.com/color/48/java.png" alt="Java Logo">
+   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="48">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/php.png"/>
     <img src="https://img.icons8.com/color/48/000000/dart.png"/>
