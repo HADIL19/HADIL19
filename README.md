@@ -18,6 +18,7 @@
     <a href="https://www.linkedin.com/in/hadil-khelif-/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://www.instagram.com/hqdy.l"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href="https://discord.gg/hqdy.l"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+     <a href="https://stackoverflow.com/users/25814137/hadil-khelif"><img align="center" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 </p>
 
 ---
