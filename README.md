@@ -15,7 +15,7 @@
 
 ### 📬 Connect with Me:
 <p align="left">
-    <a href="https://www.linkedin.com/in/hadil-khelif/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/hadil-khelif-/"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
     <a href="https://www.instagram.com/hqdy.l"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     <a href="https://discord.gg/hqdy.l"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
 </p>
@@ -26,6 +26,7 @@
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/000000/python.png"/>
+     <img src="https://img.icons8.com/color/48/000000/java.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/php.png"/>
     <img src="https://img.icons8.com/color/48/000000/dart.png"/>
