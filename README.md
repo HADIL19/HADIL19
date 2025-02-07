@@ -1,8 +1,6 @@
 <h3 align="center"> Passionate about Mobile Development and Artificial Intelligence </h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=hadil-khelif&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
