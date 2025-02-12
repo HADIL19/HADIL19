@@ -45,10 +45,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HADIL19&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-<div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HADIL19&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=58A6FF&sideNums=FFFFFF&dates=58A6FF" 
-         alt="GitHub Streak Stats for HADIL19" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HADIL19&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=58A6FF&sideNums=FFFFFF&dates=58A6FF" alt="GitHub Streak Stats">
+
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HADIL19&layout=compact&theme=dark" alt="Top Languages" />
