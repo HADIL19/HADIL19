@@ -45,7 +45,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HADIL19&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=HADIL19)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=HADIL19&theme=shades-of-purple" alt="GitHub Streak" /></a>
 
 
 <p align="center">
