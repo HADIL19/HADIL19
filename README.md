@@ -47,6 +47,10 @@ languages: ["Arabic", "French", "English", "German"]
 <div align="center"> <img src="https://skillicons.dev/icons?i=mysql,docker," alt="Databases and Cloud"/> </div>
 🔧 Development Tools
 <div align="center"> <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea,git,github,postman,jupyter" alt="Development Tools"/> </div>
+🕷️ Web Scraping & Data Collection
+<div align="center"> <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/> </div>
+
+
 🤖 AI & Data Science
 <div align="center"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-FC4F30?style=for-the-badge&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MLOps-0ABAB5?style=for-the-badge"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> </div>
 📊 GitHub Analytics
