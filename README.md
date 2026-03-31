@@ -5,13 +5,12 @@
     alt="Animated header"
   />
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&random=false&width=750&lines=Backend+%26+Full-Stack+Engineer+💻;Mobile+App+Developer+(Flutter+%2F+Dart)+📱;Data+Engineer+in+Progress+📊;Bioinformatics+Master's+Student+🧬;ML+%26+DevOps+Learner+🚀;"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&random=false&width=750&lines=Backend+%26+Full-Stack+Engineer+💻;Mobile+App+Developer+(Flutter+%2F+Dart)+📱;AI+Chatbot+%26+Discord+Bot+Builder+🤖;RAG+Systems+%26+API+Integration+🔗;Data+Engineer+in+Progress+📊;Bioinformatics+Master's+Student+🧬;ML+%26+DevOps+Learner+🚀;"
     alt="Typing SVG"
   />
 
   <br />
 
-  <!-- Social Badges (haut, centrés, format plus compact) -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadil-khelif-942672379/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hadylkhelif18@gmail.com)
   [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/25814137/hadil-khelif)
@@ -33,7 +32,6 @@ roles       :
   - Full-Stack Developer (Web & Mobile)
   - Software Engineer (Backend + Database focused)
   - Data Engineer (In Progress)
-  - ML & DevOps Learner
 languages   : Arabic 🇩🇿 | French 🇫🇷 | English 🇬🇧 | German 🇩🇪
 values      :
   - Clean, maintainable code
@@ -45,9 +43,62 @@ values      :
 ---
 
 ## 🛠️ Full Tech Stack
-### 💻 Programming Languages <div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,dart,c" /> </div> 🌐 Web — Frontend <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" /> </div>  ⚙️ Web — Backend & APIs <div align="center"> <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,prisma" /> </div>📱 Mobile Development <div align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart" /> <br/> <img src="https://img.shields.io/badge/Cross--Platform%20Dev-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/UI%2FUX%20Mobile-FF6B6B?style=flat-square"/> </div>  🗄️ Databases <div align="center"> <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /> <br/> <img src="https://img.shields.io/badge/SQLAlchemy-ORM-cc0000?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/NoSQL%20Databases-13AA52?style=flat-square&logo=mongodb&logoColor=white"/> </div>  📊 Data Science & ML
-<div align="center"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-FC4F30?style=flat-square"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=flat-square"/> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/> </div>  🔧 DevOps & Tools <div align="center"> <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,postman" /> </div>  🕸️ Web Scraping <div align="center"> <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/> </div>
- 🎓 Education
+
+### 💻 Programming Languages
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,java,r,dart,c" /> </div>
+ 🌐 Web — Frontend
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" /> </div>
+⚙️ Web — Backend & APIs
+<div align="center"> <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,prisma" /> </div>
+ 📱 Mobile Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <br/>
+  <img src="https://img.shields.io/badge/Cross--Platform%20Dev-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Mobile-FF6B6B?style=flat-square"/>
+</div>
+🤖 AI & Automation
+<div align="center">
+  <img src="https://img.shields.io/badge/Discord%20Bots-discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Chatbots-Web%20Integration-7B2FBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-Retrieval%20Augmented%20Generation-FF6B6B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Integration-REST%20%2F%20Webhooks-4A90D9?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-Pinecone%20%2F%20ChromaDB-13AA52?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square"/>
+</div>
+🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-cc0000?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL%20Databases-13AA52?style=flat-square&logo=mongodb&logoColor=white"/>
+</div>
+📊 Data Science & ML
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FC4F30?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/>
+</div>
+🔧 DevOps & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,postman" /> </div>
+🕸️ Web Scraping
+<div align="center">
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+</div>
+
+---
+
+## 🎓 Education
 
 | Degree | Institution | Field | Status |
 |--------|------------|-------|--------|
@@ -67,12 +118,20 @@ values      :
 - **API Design:** RESTful APIs · SQLAlchemy ORM · Prisma ORM
 - **Databases:** MySQL · PostgreSQL · MongoDB · NoSQL · Database Design · CRUD · Data Modeling
 
+### 🤖 AI Integration & Automation — *Hands-on*
+> Building intelligent bots, AI-powered chat assistants & retrieval pipelines
+
+- **Discord Bots:** discord.py · slash commands · event handling · bot automation
+- **AI Chatbots:** Web-integrated chat assistants · custom LLM-powered UIs
+- **RAG Systems:** Retrieval-Augmented Generation · vector search · document Q&A
+- **API Integration:** REST APIs · webhooks · third-party service automation
+- **LLM Tooling:** OpenAI API · LangChain · vector databases (Pinecone / ChromaDB)
+
 ### 🟢 Data Engineer — *In Progress*
 > Data processing, transformation, pipeline development & retrieval systems
 
 - **Tools:** Pandas · NumPy · SQL · SQLAlchemy · R · RStudio
 - **Concepts:** Data Modeling · Data Architecture · Data Management
-- **AI Integration:** RAG (Retrieval‑Augmented Generation) · Vector Databases
 - **Visualization:** Matplotlib · Plotly · Jupyter
 
 ### 🟠 ML & DevOps — *Learner*
@@ -97,7 +156,7 @@ values      :
 
 <div align="center">
 
-**Open to collaborations on backend systems, full‑stack projects, data engineering pipelines, and mobile apps.**
+**Open to collaborations on backend systems, full‑stack projects, AI chatbots, RAG pipelines, Discord bots, and mobile apps.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadil%20Khelif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadil-khelif-942672379/)
 [![Email](https://img.shields.io/badge/Email-hadylkhelif18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hadylkhelif18@gmail.com)
@@ -108,7 +167,6 @@ values      :
 
 ---
 
-<!-- Footer en violet plutôt que bleu -->
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:0D1117,100:7B2FBE&height=120&section=footer&text=Let's%20build%20something%20great!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65"
