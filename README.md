@@ -107,43 +107,6 @@ values      :
 
 ---
 
-## 🚀 Career Focus
-
-### 🔵 Full-Stack & Backend Engineer — *Primary Expertise*
-> Building robust, scalable server-side systems and complete web/mobile applications
-
-- **Web Backend:** FastAPI · Django · Express.js · Node.js
-- **Web Frontend:** React.js · Next.js · Tailwind CSS · TypeScript · Bootstrap
-- **Mobile:** Flutter · Dart · Cross-platform Development · UI/UX Mobile
-- **API Design:** RESTful APIs · SQLAlchemy ORM · Prisma ORM
-- **Databases:** MySQL · PostgreSQL · MongoDB · NoSQL · Database Design · CRUD · Data Modeling
-
-### 🤖 AI Integration & Automation — *Hands-on*
-> Building intelligent bots, AI-powered chat assistants & retrieval pipelines
-
-- **Discord Bots:** discord.py · slash commands · event handling · bot automation
-- **AI Chatbots:** Web-integrated chat assistants · custom LLM-powered UIs
-- **RAG Systems:** Retrieval-Augmented Generation · vector search · document Q&A
-- **API Integration:** REST APIs · webhooks · third-party service automation
-- **LLM Tooling:** OpenAI API · LangChain · vector databases (Pinecone / ChromaDB)
-
-### 🟢 Data Engineer — *In Progress*
-> Data processing, transformation, pipeline development & retrieval systems
-
-- **Tools:** Pandas · NumPy · SQL · SQLAlchemy · R · RStudio
-- **Concepts:** Data Modeling · Data Architecture · Data Management
-- **Visualization:** Matplotlib · Plotly · Jupyter
-
-### 🟠 ML & DevOps — *Learner*
-> Machine learning fundamentals & infrastructure automation
-
-- **ML Libraries:** Scikit‑Learn · TensorFlow · PyTorch
-- **DevOps:** Docker · GitHub Actions · CI/CD
-- **Scraping:** Selenium · BeautifulSoup · Scrapy
-- **Bioinformatics:** Genomics · Data processing in biology contexts
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
