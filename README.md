@@ -1,11 +1,11 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FBE,100:0D1117&height=200&section=header&text=Hadil%20Khelif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Engineer%20in%20Progress&descAlignY=58&descSize=18&descColor=7B2FBE"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FBE,100:0D1117&height=200&section=header&text=Hadil%20Khelif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=58&descSize=18&descColor=7B2FBE"
     alt="Animated header"
   />
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&random=false&width=750&lines=Backend+%26+Full-Stack+Engineer+💻;Mobile+App+Developer+(Flutter+%2F+Dart)+📱;AI+Chatbot+%26+Discord+Bot+Builder+🤖;RAG+Systems+%26+API+Integration+🔗;Data+Engineer+in+Progress+📊;Bioinformatics+Master's+Student+🧬;ML+%26+DevOps+Learner+🚀;"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&random=false&width=750&lines=Backend+%26+Full-Stack+Engineer+💻;Mobile+App+Developer+(Flutter+%2F+Dart)+📱;AI+Chatbot+%26+Discord+Bot+Builder+🤖;RAG+Systems+%26+API+Integration+🔗;Redis+%26+Caching+Enthusiast+⚡;ML+Engineer+in+Progress+🧠;Bioinformatics+Master's+Student+🧬;ML+%26+DevOps+Learner+🚀;"
     alt="Typing SVG"
   />
 
@@ -31,7 +31,7 @@ education   :
 roles       :
   - Full-Stack Developer (Web & Mobile)
   - Software Engineer (Backend + Database focused)
-  - Data Engineer (In Progress)
+  - Machine Learning Engineer (In Progress)
 languages   : Arabic 🇩🇿 | French 🇫🇷 | English 🇬🇧 | German 🇩🇪
 values      :
   - Clean, maintainable code
@@ -49,7 +49,7 @@ values      :
  🌐 Web — Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" /> </div>
 ⚙️ Web — Backend & APIs
-<div align="center"> <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,prisma" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,prisma,redis" /> </div>
  📱 Mobile Development
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -67,13 +67,15 @@ values      :
   <img src="https://img.shields.io/badge/Vector%20Databases-Pinecone%20%2F%20ChromaDB-13AA52?style=flat-square"/>
   <img src="https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat-square"/>
 </div>
-🗄️ Databases
+🗄️ Databases & Caching
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
   <br/>
   <img src="https://img.shields.io/badge/SQLAlchemy-ORM-cc0000?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/NoSQL%20Databases-13AA52?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-Caching%20%2F%20Pub--Sub-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caching%20Strategies-Write--Through%20%2F%20TTL%20%2F%20LRU-DC382D?style=flat-square"/>
 </div>
 📊 Data Science & ML
 <div align="center">
@@ -119,7 +121,7 @@ values      :
 
 <div align="center">
 
-**Open to collaborations on backend systems, full‑stack projects, AI chatbots, RAG pipelines, Discord bots, and mobile apps.**
+**Open to collaborations on backend systems, full‑stack projects, AI chatbots, RAG pipelines, and mobile apps.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadil%20Khelif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadil-khelif-942672379/)
 [![Email](https://img.shields.io/badge/Email-hadylkhelif18%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hadylkhelif18@gmail.com)
