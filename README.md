@@ -1,11 +1,11 @@
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FBE,100:0D1117&height=200&section=header&text=Hadil%20Khelif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=58&descSize=18&descColor=7B2FBE"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7B2FBE,100:0D1117&height=200&section=header&text=Hadil%20Khelif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20in%20Progress&descAlignY=58&descSize=18&descColor=7B2FBE"
     alt="Animated header"
   />
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&random=false&width=750&lines=Backend+%26+Full-Stack+Engineer+💻;Mobile+App+Developer+(Flutter+%2F+Dart)+📱;AI+Chatbot+%26+Discord+Bot+Builder+🤖;RAG+Systems+%26+API+Integration+🔗;Redis+%26+Caching+Enthusiast+⚡;ML+Engineer+in+Progress+🧠;Bioinformatics+Master's+Student+🧬;ML+%26+DevOps+Learner+🚀;"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7B2FBE&center=true&vCenter=true&random=false&width=750&lines=Backend+%26+Full-Stack+Engineer+💻;Mobile+App+Developer+(Flutter+%2F+Dart)+📱;AI+Chatbot+🤖;RAG+Systems+%26+API+Integration+🔗;AI/ML+Engineer+in+Progress+🧠;Bioinformatics+Master's+Student+🧬;"
     alt="Typing SVG"
   />
 
@@ -31,7 +31,7 @@ education   :
 roles       :
   - Full-Stack Developer (Web & Mobile)
   - Software Engineer (Backend + Database focused)
-  - Machine Learning Engineer (In Progress)
+  - AI and Machine Learning Engineer (In Progress)
 languages   : Arabic 🇩🇿 | French 🇫🇷 | English 🇬🇧 | German 🇩🇪
 values      :
   - Clean, maintainable code
