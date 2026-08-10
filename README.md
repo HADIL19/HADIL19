@@ -77,6 +77,26 @@ values      :
   <img src="https://img.shields.io/badge/Redis-Caching%20%2F%20Pub--Sub-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Caching%20Strategies-Write--Through%20%2F%20TTL%20%2F%20LRU-DC382D?style=flat-square"/>
 </div>
+📨 Message Brokers & Streaming
+<div align="center">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-7B2FBE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pub%2FSub%20Messaging-4A90D9?style=flat-square"/>
+</div>
+🔐 Authentication & Security
+<div align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-4285F4?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bcrypt-6E4C13?style=flat-square"/>
+</div>
+🧪 Testing
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</div>
 📊 Data Science & ML
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
